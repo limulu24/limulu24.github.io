@@ -7,10 +7,4 @@
 
 ## 目前域名
 
-- 更新于2025年4月4日  
-域名：https://www.limulu.moe
-
-### 备用域名
-
-暂无备用域名  
-TG群组：https://t.me/listaacg
+- 域名：https://www.limulu.moe
